@@ -1,4 +1,4 @@
-# Use: {
+@ Use: {
   library: {
     Firebase: {
       auth,
@@ -14,7 +14,7 @@
   },
 }
 
-# implementation function: {
+@ implementation function: {
   distribute,
   file upload,
   object => Read - Delete - Modify - Insert,
@@ -22,7 +22,7 @@
   use FileReader,
 }
 
-# develop period: { 3hours }
+@ develop period: { 3hours }
 
 
 Thx for me 🎁!
